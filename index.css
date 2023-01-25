@@ -1,0 +1,36 @@
+
+h1 {
+    background-color: pink;
+    border: pink solid 5px; 
+}
+
+.mainContainer {
+    border: navy solid 3px;
+    background-color: navy;
+}
+
+.col {
+    padding: 1rem; 
+    background-color: #e533cd;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.col-4 {
+    background-color: orchid;
+    border: 2px solid #fff;
+}
+
+.col-md-3, .col-md-4, .col-md-6 {
+    background-color: orchid;
+    border: 2px solid #fff;
+}
+
+.row { 
+    border: yellow solid 5px;
+}
+
+.container {
+    border: cornflowerblue solid 3px;
+}
+
